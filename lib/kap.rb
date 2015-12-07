@@ -25,3 +25,4 @@ class Kap
   end
 end
 
+Kap.new()
