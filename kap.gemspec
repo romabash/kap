@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.name          = "kap"
   spec.version       = '1.0'
   spec.authors       = ["Roma"]
-  spec.email         = ["romanofkin@gmail.com"]
+  spec.email         = [""]
   spec.summary       = %q{Kaprekar Number}
   spec.description   = %q{Checks if the number entered is a Kaprekar Number}
   spec.homepage      = ""
